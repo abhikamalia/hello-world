@@ -1,2 +1,2 @@
 # hello-world
-it is just a starting application showing the text "hello world"
+hey it's abhi kamalia.....and i m new in here...
